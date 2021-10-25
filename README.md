@@ -14,7 +14,7 @@ For development, you will only need Node.js and a node global package, npm, inst
 
 ## Install
 
-    $ git clone git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/project-sandbox-jiglesias
+    $ git clone
     $ cd PROJECT_TITLE
     $ npm i install
 
