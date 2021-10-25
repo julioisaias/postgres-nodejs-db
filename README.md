@@ -1,8 +1,3 @@
-# Project Sandbox
-
-Project related to the technical interview for javascript, in Ciudad del Este, Paraguay
-
----
 ## Requirements
 
 For development, you will only need Node.js and a node global package, npm, installed in your environement.
